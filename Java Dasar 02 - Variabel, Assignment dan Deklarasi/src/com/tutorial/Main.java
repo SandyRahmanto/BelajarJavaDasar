@@ -29,9 +29,13 @@ public class Main {
         System.out.println("Nilai x = " + x);
         
         x = 20;
-        System.out.println("Nilai x = " + x);
+        System.out.println("Nilai baru x = " + x);
         
-        //Membuat Deklarasi
+        //Membuat Deklarasi, contoh int y
+        int y;
+        
+        y = 5;
+        System.out.println("Nilai y = " + y);
         
     }
     
